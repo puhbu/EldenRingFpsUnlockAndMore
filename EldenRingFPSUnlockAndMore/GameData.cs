@@ -8,7 +8,8 @@ namespace EldenRingFPSUnlockAndMore
         internal const string PROCESS_DESCRIPTION = "elden";
         internal static readonly string[] PROCESS_EXE_VERSION_SUPPORTED = new string[]
         {
-            "2.0.1.0"
+            "2.0.1.0",
+            "2.2.0.0"
         };
 
         /**
